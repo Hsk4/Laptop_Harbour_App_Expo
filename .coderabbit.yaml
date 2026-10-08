@@ -1,0 +1,11 @@
+version: 1
+reviews:
+  profile: chill
+  request_changes_workflow: false
+  high_level_summary: true
+  poem: false
+chat:
+  auto_reply: true
+knowledge_base:
+  web_search:
+    enabled: false
